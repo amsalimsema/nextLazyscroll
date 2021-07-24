@@ -119,3 +119,14 @@
     flex-direction: column;
   }
 }
+
+/* new */
+
+.content {
+  height: 100vh;
+  background-color: aqua;
+}
+.comments {
+  height: 100vh;
+  background-color: goldenrod;
+}
